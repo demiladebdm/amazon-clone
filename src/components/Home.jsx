@@ -28,7 +28,7 @@ const Home = () => {
                 id={12345}
                 title="All Blacks Timberland 6 Inch Boots For Men"
                 price={85.55}
-                rating={5}
+                rating={3}
                 image={Timberland}
             />
             <Product 
@@ -45,14 +45,14 @@ const Home = () => {
                 id={12345}
                 title="Apple AirPods Pro (2nd Generation) - 2022 Model - White"
                 price={450.15}
-                rating={5}
+                rating={4}
                 image={Airpods}
             />
             <Product 
                 id={12345}
                 title="Apple iPhone 14 128GB Purple"
                 price={999.99}
-                rating={5}
+                rating={4}
                 image={Iphone}
             />
             <Product 
